@@ -1,6 +1,6 @@
 # AyudPyParser
 
-########################################################################################################################
+
 
          _nnnn_                      	      Ayudantia Fundamentos de Programacion.
         dGGGGMMb     ,"""""""""""""".		Matias Cortes G. 
@@ -10,12 +10,4 @@
       JS^\__/  qKL						-Hacer estadistica por palabra, cuantas veces se repite 
      dZP        qKRb			     				cada palabra.
     dZP          qKKb						
-   fZP            SMMb						
-   HZM            MMMM		
-   FqM            MMMM
- __| ".        |\dS"qML			
- |    `.       | `' \Zq			
-_)      \.___.,|     .'			
-\____   )MMMMMM|   .'			
-     `-'       `--' hjm
-########################################################################################################################
+ 
